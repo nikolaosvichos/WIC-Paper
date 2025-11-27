@@ -1,0 +1,15 @@
+---
+title: "Toward measuring purchasing power parity across OECD regions"
+author:
+  - Alessandro ALASIA
+  - Juergen AMANN
+  - Peter HORVÁT
+  - Nikolaos VICHOS
+format: pdf
+sansfont: "Latin Modern Roman"
+editor: visual
+---
+
+## Introduction
+
+All paper contents will be copied over from the .docx document, once complete
