@@ -27,6 +27,10 @@ Following @icp2021 ....
 
 \pagebreak
 
+<<<<<<< Updated upstream
 change by alessandro
+=======
+example change
+>>>>>>> Stashed changes
 
 # References
