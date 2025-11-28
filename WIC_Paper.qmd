@@ -23,6 +23,8 @@ All paper contents will be copied over from the .docx document, once complete.
 
 Following @icp2021 ....
 
+@hearne2021
+
 \pagebreak
 
 # References
