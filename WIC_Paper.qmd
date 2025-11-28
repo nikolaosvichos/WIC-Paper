@@ -8,8 +8,21 @@ author:
 format: pdf
 sansfont: "Latin Modern Roman"
 editor: visual
+bibliography: references.bib
 ---
+
+\begin{abstract}
+
+Abstract goes here
+
+\end{abstract}
 
 ## Introduction
 
-All paper contents will be copied over from the .docx document, once complete
+All paper contents will be copied over from the .docx document, once complete.
+
+Following @icp2021 ....
+
+\pagebreak
+
+# References
